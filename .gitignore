@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+.git
+*.txt
+Output
+rsconnect
